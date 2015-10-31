@@ -1,4 +1,4 @@
 {
 	"numberOfThreads": 3,
-	"httpPort": 8034
+	"httpPort": 8000
 }
